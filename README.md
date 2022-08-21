@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [react-app-rewired](https://github.com/timarney/react-app-rewired).
+
+It also comes with Linaria and Font Awesome as well as [Wes Bos' eslint](https://github.com/wesbos/eslint-config-wesbos) config.
 
 ## Available Scripts
 
